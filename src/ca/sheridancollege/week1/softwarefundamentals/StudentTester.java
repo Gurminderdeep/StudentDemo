@@ -23,7 +23,7 @@ public class StudentTester {
         
         studentList[1]=new Student("Leo",123);
         studentList[2]=new Student("Sheetal",111);
-        System.out.println("Hello")
+        System.out.println("Hello");
         for(int i=0;i<studentList.length;i++)
         {
             System.out.println(studentList[i].getName());
